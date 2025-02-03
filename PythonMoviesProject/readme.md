@@ -1,17 +1,17 @@
-# Documentação do projeto 🔎⬇ 
+# Project Documentation 🔎⬇ 
 
-## Sobre o projeto:
+## About the project:
 
-Seja bem-vindo(a). Esta aplicação ...
+- **Programming Language**: The programming language chosen for the project is [Python](https://www.python.org/downloads/) version 3.12.1.
 
-- **Linguagem de programação**: A linguagem de programação escolhida para o projeto foi o [Python](https://www.python.org/downloads/) na versão 3.12.1.
+- **IDE**: The IDE used is VS Code with the [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) extension.
 
-- **IDE**: Foi utilizado o VS Code com a extensão [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
+## How to run the application:
 
-## Instruções gerais para rodar a aplicação:
+- **Root Directory**: Make sure you are in PythonMoviesProject to set up the environment and run the applications;
 
-- **Ambiênte virtual**: Após ter o IDE e a linguagem Python isntaladas, utilize o comando `python -m venv nome_do_ambiente_virtual` para criar o ambiente virtual utilizado para a aplicação. 
+- **Virtual Environment**: After having the IDE and Python setup and installed, use the command `python -m venv nome_do_ambiente_virtual` to create the virtual environment used for the application.  
 
-- **Instalações necessárias**: Após a criação ambiente virtual, é necessário ativá-lo com o comando `.\env\Scripts\activate` e instalar as bibliotecas e frameworks necessários com o comando `pip install -r requirements.txt`.
+- **Libs and Frameworks**: Activate the virtual environment with the command `.\env\Scripts\activate` and install all the necessary libraries and frameworks with the command `pip install -r requirements.txt`.
 
-- **Dados da aplicação**: É necessário baixar o csv do dataset "Movie Industry" no site [Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies) e colocá-lo no mesmo diretório que o "main.ipynb"
+- **Application Data**: It is necessary to download the CSV of the "Movie Industry" dataset from the [Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies) website and place it in the same directory as "main.ipynb".
