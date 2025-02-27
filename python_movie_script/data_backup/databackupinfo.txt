@@ -1,2 +1,0 @@
-- Caso não seja possível encontrar os dados do csv original, aqui existe uma cópia dos dados 
-em menor quantidade para que o programa possa ser executado normalmente.
